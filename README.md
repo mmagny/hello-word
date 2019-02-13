@@ -1,4 +1,6 @@
 # hello-word
-Just another repository
+Just a test
 
-Blablabla, just a Commit test...
+Feb 11th: Blablabla, just a Commit test...
+
+Feb 13th: Modification to tests GitExtensions work flow.
