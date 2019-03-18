@@ -1,6 +1,6 @@
 # hello-word
 Just another repository
 
-##Subtitle
+## Subtitle
 
 Blablabla, just a Commit test...
